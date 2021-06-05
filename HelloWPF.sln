@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleException", "HandleEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultureSpec", "CultureSpec\CultureSpec.csproj", "{250A8A7F-599F-448C-9E8A-CD01F3D709EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlock", "TextBlock\TextBlock.csproj", "{58A77870-3579-418C-A732-CD3EF4BB194D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelControl", "LabelControl\LabelControl.csproj", "{C2BDBA3D-CCF0-4FF4-98F5-CB9DE9FDD7D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{250A8A7F-599F-448C-9E8A-CD01F3D709EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{250A8A7F-599F-448C-9E8A-CD01F3D709EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{250A8A7F-599F-448C-9E8A-CD01F3D709EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A77870-3579-418C-A732-CD3EF4BB194D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A77870-3579-418C-A732-CD3EF4BB194D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A77870-3579-418C-A732-CD3EF4BB194D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A77870-3579-418C-A732-CD3EF4BB194D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BDBA3D-CCF0-4FF4-98F5-CB9DE9FDD7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BDBA3D-CCF0-4FF4-98F5-CB9DE9FDD7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BDBA3D-CCF0-4FF4-98F5-CB9DE9FDD7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BDBA3D-CCF0-4FF4-98F5-CB9DE9FDD7D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
