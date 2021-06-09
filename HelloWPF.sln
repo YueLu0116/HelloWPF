@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelControl", "LabelContro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxControl", "TextBoxControl\TextBoxControl.csproj", "{ADC997E8-CE2F-4645-83C1-1EB8759B831C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonControl", "ButtonControl\ButtonControl.csproj", "{9CB3DA56-EDA7-4F94-9E76-74D702DC913E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox", "CheckBox\CheckBox.csproj", "{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{ADC997E8-CE2F-4645-83C1-1EB8759B831C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC997E8-CE2F-4645-83C1-1EB8759B831C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC997E8-CE2F-4645-83C1-1EB8759B831C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB3DA56-EDA7-4F94-9E76-74D702DC913E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB3DA56-EDA7-4F94-9E76-74D702DC913E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB3DA56-EDA7-4F94-9E76-74D702DC913E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB3DA56-EDA7-4F94-9E76-74D702DC913E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
