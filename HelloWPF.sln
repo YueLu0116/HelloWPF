@@ -19,6 +19,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonControl", "ButtonCont
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox", "CheckBox\CheckBox.csproj", "{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButton", "RadioButton\RadioButton.csproj", "{5E328BBA-D61B-4AEA-9DA3-46A835ADA069}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBinding", "DataBinding\DataBinding.csproj", "{60A67112-DA0C-4D57-A03C-F3BAE1338E1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Commands", "Commands\Commands.csproj", "{28C18099-8977-4340-9467-35D946257E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFiles", "OpenFiles\OpenFiles.csproj", "{1D0AAE67-57F0-4B72-BEA4-73D5D50FCEB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +65,22 @@ Global
 		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70BF7ADE-3531-4FCA-934D-66FA4B5A9E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E328BBA-D61B-4AEA-9DA3-46A835ADA069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E328BBA-D61B-4AEA-9DA3-46A835ADA069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E328BBA-D61B-4AEA-9DA3-46A835ADA069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E328BBA-D61B-4AEA-9DA3-46A835ADA069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60A67112-DA0C-4D57-A03C-F3BAE1338E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A67112-DA0C-4D57-A03C-F3BAE1338E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A67112-DA0C-4D57-A03C-F3BAE1338E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A67112-DA0C-4D57-A03C-F3BAE1338E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C18099-8977-4340-9467-35D946257E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C18099-8977-4340-9467-35D946257E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C18099-8977-4340-9467-35D946257E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C18099-8977-4340-9467-35D946257E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0AAE67-57F0-4B72-BEA4-73D5D50FCEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0AAE67-57F0-4B72-BEA4-73D5D50FCEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0AAE67-57F0-4B72-BEA4-73D5D50FCEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0AAE67-57F0-4B72-BEA4-73D5D50FCEB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
